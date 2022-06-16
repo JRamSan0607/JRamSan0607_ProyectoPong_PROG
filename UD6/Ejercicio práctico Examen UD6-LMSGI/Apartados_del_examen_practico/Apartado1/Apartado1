@@ -1,0 +1,2 @@
+for $ciclo in doc("clase2.xml")//fp/ciclos_informatica/ciclo[@id="DAM"]
+return $ciclo

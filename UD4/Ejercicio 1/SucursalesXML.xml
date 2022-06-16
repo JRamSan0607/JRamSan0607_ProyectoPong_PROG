@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Los_remedios xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Sucursales.xsd">
+    <pedidos>
+        <pedido>
+            <cod_sucursal>A0000001</cod_sucursal>
+            <nombre_trabajador>Antonio Mendoza</nombre_trabajador>
+            <fecha_pedido>2022/02/14</fecha_pedido>
+            <observaciones>urgente</observaciones>
+            <articulos>
+                <articulo cod="AAA-001">
+                    <numero_unidades>2</numero_unidades>
+                    <precio_unidad>15€</precio_unidad>
+                    <observaciones>Frágil</observaciones>
+                    <plazo_revision>5 días</plazo_revision>
+                </articulo>
+                <articulo cod="AAA-002">
+                    <numero_unidades>5</numero_unidades>
+                    <precio_unidad>25€</precio_unidad>
+                    <observaciones>Frágil</observaciones>
+                    <plazo_revision>4 días</plazo_revision>
+                </articulo>
+            </articulos>
+        </pedido>
+        <pedido>
+            <cod_sucursal>B7654321</cod_sucursal>
+            <nombre_trabajador>José Luis Marquez</nombre_trabajador>
+            <fecha_pedido>2022/02/14</fecha_pedido>
+            <observaciones>incompleto</observaciones>
+            <articulos>
+                <articulo cod="AAA-003">
+                    <numero_unidades>7</numero_unidades>
+                    <precio_unidad>5€</precio_unidad>
+                    <observaciones>Frágil</observaciones>
+                    <plazo_revision>3 días</plazo_revision>
+                </articulo>
+            </articulos>
+        </pedido>
+    </pedidos>
+</Los_remedios>

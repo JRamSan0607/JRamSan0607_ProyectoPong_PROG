@@ -1,0 +1,77 @@
+11:00:16.436  INFO  [LibraryManager] ---- group creation in C:\1DAW\LMSGI\Unidad 6\Examen\Libreria_Ex_UD6
+11:00:16.436  INFO  [LibraryManager]  100
+11:00:24.233  INFO  [LibraryManager] shutdown begins
+11:00:24.233  INFO  [LibraryManager] shutdown complete.
+11:00:24.237  INFO  [LibraryManager] ---- starting up ----
+11:00:24.237  INFO  [LibraryManager]  100
+11:00:24.238  INFO  [LibraryManager] Library group ready
+11:00:35.109  INFO  [LibraryManager] shutdown begins
+11:00:35.109  INFO  [LibraryManager] shutdown complete.
+11:00:39.948  INFO  [LibraryManager] ---- starting up ----
+11:00:39.948  INFO  [LibraryManager]  100
+11:00:39.948  INFO  [LibraryManager] Library group ready
+11:01:37.636  INFO  [LibraryManager] shutdown begins
+11:01:37.636  INFO  [LibraryManager] shutdown complete.
+11:01:37.641  INFO  [LibraryManager] ---- starting up ----
+11:01:37.641  INFO  [LibraryManager]  100
+11:01:37.641  INFO  [LibraryManager] Library group ready
+11:01:43.954  INFO  [LibraryManager] shutdown begins
+11:01:43.954  INFO  [LibraryManager] shutdown complete.
+11:01:47.974  INFO  [LibraryManager] ---- starting up ----
+11:01:47.974  INFO  [LibraryManager]  100
+11:01:47.975  INFO  [LibraryManager] Library group ready
+11:02:14.618  INFO  [LibraryManager] shutdown begins
+11:02:14.618  INFO  [LibraryManager] shutdown complete.
+11:02:20.857  INFO  [LibraryManager] ---- starting up ----
+11:02:20.857  INFO  [LibraryManager]  100
+11:02:20.857  INFO  [LibraryManager] Library group ready
+11:02:40.508  INFO  [LibraryManager] shutdown begins
+11:02:40.508  INFO  [LibraryManager] shutdown complete.
+11:02:40.513  INFO  [LibraryManager] ---- starting up ----
+11:02:40.513  INFO  [LibraryManager]  100
+11:02:40.514  INFO  [LibraryManager] Library group ready
+11:02:59.566  INFO  [LibraryManager] shutdown begins
+11:02:59.566  INFO  [LibraryManager] shutdown complete.
+11:04:06.543  INFO  [LibraryManager] ---- starting up ----
+11:04:06.543  INFO  [LibraryManager]  100
+11:04:06.558  INFO  [LibraryManager] Library group ready
+11:04:39.624  INFO  [LibraryManager] shutdown begins
+11:04:39.624  INFO  [LibraryManager] shutdown complete.
+11:04:39.627  INFO  [LibraryManager] ---- starting up ----
+11:04:39.627  INFO  [LibraryManager]  100
+11:04:39.628  INFO  [LibraryManager] Library group ready
+11:04:58.591  INFO  [LibraryManager] shutdown begins
+11:04:58.591  INFO  [LibraryManager] shutdown complete.
+11:05:25.319  INFO  [LibraryManager] ---- starting up ----
+11:05:25.319  INFO  [LibraryManager]  100
+11:05:25.320  INFO  [LibraryManager] Library group ready
+11:06:40.076  INFO  [LibraryManager] shutdown begins
+11:06:40.076  INFO  [LibraryManager] shutdown complete.
+11:06:50.295  INFO  [LibraryManager] ---- starting up ----
+11:06:50.295  INFO  [LibraryManager]  100
+11:06:50.296  INFO  [LibraryManager] Library group ready
+11:07:56.524  INFO  [LibraryManager] shutdown begins
+11:07:56.524  INFO  [LibraryManager] shutdown complete.
+11:08:05.668  INFO  [LibraryManager] ---- starting up ----
+11:08:05.668  INFO  [LibraryManager]  100
+11:08:05.669  INFO  [LibraryManager] Library group ready
+11:08:33.739  INFO  [LibraryManager] shutdown begins
+11:08:33.739  INFO  [LibraryManager] shutdown complete.
+11:08:33.741  INFO  [LibraryManager] ---- starting up ----
+11:08:33.742  INFO  [LibraryManager]  100
+11:08:33.742  INFO  [LibraryManager] Library group ready
+11:08:43.577  INFO  [LibraryManager] shutdown begins
+11:08:43.577  INFO  [LibraryManager] shutdown complete.
+11:08:57.464  INFO  [LibraryManager] ---- starting up ----
+11:08:57.464  INFO  [LibraryManager]  100
+11:08:57.464  INFO  [LibraryManager] Library group ready
+11:10:04.573  INFO  [LibraryManager] library Clase2 actually deleted
+11:34:27.471  INFO  [LibraryManager] shutdown begins
+11:34:27.471  INFO  [LibraryManager]  closed library Clase2XML
+11:34:27.471  INFO  [LibraryManager] shutdown complete.
+11:36:51.906  INFO  [LibraryManager] ---- starting up ----
+11:36:51.906  INFO  [LibraryManager]  100
+11:36:51.969  INFO  [LibraryManager] Library group ready
+11:37:28.075  INFO  [LibraryManager] shutdown begins
+11:37:28.075  INFO  [LibraryManager]  closed library Clase2XML
+11:37:28.075  INFO  [LibraryManager] shutdown complete.

@@ -1,0 +1,3 @@
+for $ciclo in doc("clase2.xml")//fp/ciclos_informatica/ciclo
+where /modulo/horas=96
+return /modulo/nombre

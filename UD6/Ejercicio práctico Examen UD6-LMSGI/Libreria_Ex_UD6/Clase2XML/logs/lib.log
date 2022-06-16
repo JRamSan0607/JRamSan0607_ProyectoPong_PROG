@@ -1,0 +1,17 @@
+11:10:10.018  INFO  [lib Clase2XML] Qizx 4.4p1 creating new XML Library in C:\1DAW\LMSGI\Unidad 6\Examen\Libreria_Ex_UD6\Clase2XML
+11:10:10.019  INFO  [lib Clase2XML] create storage in C:\1DAW\LMSGI\Unidad 6\Examen\Libreria_Ex_UD6\Clase2XML\contents.qdb
+11:10:10.020  INFO  [lib Clase2XML] storage created
+11:10:10.047  INFO  [lib Clase2XML] library creation done
+11:10:25.829  INFO  [lib Clase2XML] commit start Clase2XML (session 1)
+11:10:25.861  INFO  [lib Clase2XML] commit 1 on Clase2XML (session 1)
+11:10:25.907  INFO  [lib Clase2XML] commit 1 done
+11:10:25.907  INFO  [lib Clase2XML] commit end Clase2XML (session 1) -> state: [ 1 ][ 1 2 ]
+11:10:25.907  INFO  [lib Clase2XML] sweeper deleted 1/1 metadocs: 5
+11:34:27.471  INFO  [lib Clase2XML] All sessions closed
+11:34:27.471  INFO  [lib Clase2XML] Sweeper stopped
+11:34:27.471  INFO  [lib Clase2XML] library closed 
+11:36:51.969  INFO  [lib Clase2XML] Library opened by Qizx 4.4p1
+11:36:51.969  INFO  [lib Clase2XML]  location C:\1DAW\LMSGI\Unidad 6\Examen\Libreria_Ex_UD6\Clase2XML
+11:36:51.969  INFO  [lib Clase2XML]  document storage version=5, lastBId=13, BCount=12, maxA=502
+11:37:28.075  INFO  [lib Clase2XML] All sessions closed
+11:37:28.075  INFO  [lib Clase2XML] library closed 

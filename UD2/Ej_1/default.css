@@ -1,0 +1,13 @@
+img 
+    {
+    border: 2px solid #fff
+    }
+    p {
+    font-size: 9pt
+    }
+    #parrafo {
+    color: red;
+    }
+    .parrafoNeg {
+    font-weight: bold;
+    }
